@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Number Guess Game</string>
+    <string name="app_enter_label">ENTER</string>
+    <string name="number_guessing_game_label">Enter your guess number 1-999</string>
+    <string name="guessNumber">Your guess number here</string>
+    <string name="correct_answer">Correct!! answer number is %1d.</string>
+    <string name="backToTop">Back to top</string>
+    <string name="user_lose">You lose. answer number is %1d. Please try again.</string>
+    <string name="less_guess_number">Failed. answer number is less than %1d.</string>
+    <string name="grater_guess_number">Failed. answer number is grater than %1d.</string>
+    <string name="times_remaining">%1d times remaining</string>
+</resources>
